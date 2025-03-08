@@ -26,8 +26,12 @@ jobs:
     - name: Run Jupyter Notebook
       run: |
         jupyter nbconvert --to notebook --execute talkmap.ipynb --output talkmap_out.ipynb
+    - name: Commit and push changes
+      uses: actions/checkout@v3 #this step is important
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
 
-    - name: Commit changes
+    - name: Commit and push changes
       run: |
         git config user.name "github-actions[bot]"
         git config user.email "github-actions[bot]@users.noreply.github.com"
