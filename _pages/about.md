@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate at the [University of New Mexico](https://www.unm.edu/) in the [Physics and Astronomy department](https://physics.unm.edu/) being advised by Ojas Parekh, Principal Member of Technical Staff at Sandia National Laboratories. I am also part of the [Center for Quantum Information & Control](https://cquic.unm.edu/) (CQuIC). My broad research interests are in the field of Quantum Computing and Quantum Information Science. Currently, I am working on problems in Hamiltonian complexity and approximation algorithms for quantum problems.
+I am a PhD candidate at the [University of New Mexico](https://www.unm.edu/) in the [Physics and Astronomy department](https://physics.unm.edu/) advised by Ojas Parekh, Principal Member of Technical Staff at Sandia National Laboratories. I am also part of the [Center for Quantum Information & Control](https://cquic.unm.edu/) (CQuIC). My broad research interests are in the field of Quantum Computing and Quantum Information Science. Currently, I am working on problems in Hamiltonian complexity and approximation algorithms for quantum problems.
 
-I got my undergraduate and master’s education at the [Indian Institute of Technology (IIT), Madras](https://www.iitm.ac.in/) in Electrical Engineering with a minor in Physics. For my master's thesis, I worked on designing quantum error-correcting codes using good classical error-correcting codes, advised by [Pradeep Kiran Sarvepalli](https://www.ee.iitm.ac.in/~pradeep/). 
+I received my undergraduate and master’s education at the [Indian Institute of Technology (IIT), Madras](https://www.iitm.ac.in/) in Electrical Engineering with a minor in Physics. For my master's thesis, I worked on designing quantum error-correcting codes using good classical error-correcting codes, and was advised by [Pradeep Kiran Sarvepalli](https://www.ee.iitm.ac.in/~pradeep/). 
 
-Before starting my PhD, I had a short stint of 1.5 years working as a software engineer at Texas Instruments in Banglore, India.
+Before starting my PhD, I worked as a software engineer at Texas Instruments in Bangalore, India.
 
 Publications:
 ---
