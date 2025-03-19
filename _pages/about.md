@@ -16,10 +16,10 @@ Before starting my PhD, I worked as a software engineer at Texas Instruments in 
 Publications:
 ---
 4. **Fermionic Independent Set and Laplacian of an independence complex are QMA-hard**. *Chaithanya Rayudu*. [[arxiv](https://arxiv.org/abs/2411.03230)]
-  * Accepted for a talk at Quantum Information Processing (QIP) 2025 in a combined submission. [[slides](/files/QIP_2025_Slides.pdf)]
+  * Accepted for a talk at Quantum Information Processing (QIP) 2025 in a combined submission.
 
 3. **Constrained local Hamiltonians: quantum generalizations of Vertex Cover**. *Ojas Parekh, Chaithanya Rayudu, Kevin Thompson*. [[arxiv](https://arxiv.org/abs/2409.04433)]
-  * Accepted for a talk at Quantum Information Processing (QIP) 2025 in a combined submission. [[slides](/files/QIP_2025_Slides.pdf)]
+  * Accepted for a talk at Quantum Information Processing (QIP) 2025 in a combined submission.
 
 2. **An SU(2)-symmetric Semidefinite Programming Hierarchy for Quantum Max Cut**. *Jun Takahashi, Chaithanya Rayudu, Cunlu Zhou, Robbie King, Kevin Thompson, Ojas Parekh*. [[arxiv](https://arxiv.org/abs/2307.15688)]
   * Accepted for a talk at Theory of Quantum Computing (TQC) 2024
