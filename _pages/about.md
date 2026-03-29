@@ -11,8 +11,6 @@ I am a PhD candidate at the University of New Mexico in the Physics and Astronom
 
 I received my undergraduate and master’s education at the Indian Institute of Technology (IIT), Madras in Electrical Engineering with a minor in Physics. Before starting my PhD, I worked as a software engineer at Texas Instruments in Bangalore, India.
 
-**I am on the job market for a postdoc or industry position starting in 2026.**
-
 Publications:
 ---
 5. *Fast mixing of operator-loop path-integral quantum Monte Carlo for stoquastic XY Hamiltonians*. Chaithanya Rayudu, Jun Takahashi. [[arxiv:2509.21683](https://arxiv.org/abs/2509.21683)]
