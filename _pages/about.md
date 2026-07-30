@@ -13,6 +13,7 @@ I received my undergraduate and master’s education at the Indian Institute of 
 
 Publications:
 ---
+6. *Spectral gap of Lee-Yang Hamiltonians*. Chaithanya Rayudu, Jun Takahashi. [[arXiv:2607.10765](https://arxiv.org/abs/2607.10765)]
 5. *Fast mixing of operator-loop path-integral quantum Monte Carlo for stoquastic XY Hamiltonians*. Chaithanya Rayudu, Jun Takahashi. [[arxiv:2509.21683](https://arxiv.org/abs/2509.21683)]
 4. *Fermionic Independent Set and Laplacian of an independence complex are QMA-hard*. Chaithanya Rayudu. [[arxiv:2411.03230](https://arxiv.org/abs/2411.03230)]
   * Accepted for a talk at Quantum Information Processing (QIP) 2025 in a combined submission.
