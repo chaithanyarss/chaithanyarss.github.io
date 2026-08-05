@@ -1,0 +1,46 @@
+me:
+  - Chaithanya Rayudu
+  - Sankara Sai Chaithanya Rayudu
+
+# arXiv ids must stay quoted; unquoted 2411.03230 parses as a float and
+# silently loses its trailing zero, producing a dead link.
+list:
+  - title: "Spectral gap of Lee-Yang Hamiltonians"
+    year: 2026
+    authors: [Chaithanya Rayudu, Jun Takahashi]
+    arxiv: "2607.10765"
+
+  - title: "Fast mixing of operator-loop path-integral quantum Monte Carlo for stoquastic XY Hamiltonians"
+    year: 2025
+    authors: [Chaithanya Rayudu, Jun Takahashi]
+    arxiv: "2509.21683"
+
+  - title: "Fermionic Independent Set and Laplacian of an independence complex are QMA-hard"
+    year: 2024
+    authors: [Chaithanya Rayudu]
+    arxiv: "2411.03230"
+    badge: "QIP 2025"
+    badge_title: "Accepted for a talk at Quantum Information Processing (QIP) 2025"
+    note: "Accepted for a talk as part of a combined submission."
+
+  - title: "Constrained local Hamiltonians: quantum generalizations of Vertex Cover"
+    year: 2024
+    authors: [Ojas Parekh, Chaithanya Rayudu, Kevin Thompson]
+    arxiv: "2409.04433"
+    badge: "QIP 2025"
+    badge_title: "Accepted for a talk at Quantum Information Processing (QIP) 2025"
+    note: "Accepted for a talk as part of a combined submission."
+
+  - title: "An SU(2)-symmetric Semidefinite Programming Hierarchy for Quantum Max Cut"
+    year: 2023
+    authors: [Jun Takahashi, Chaithanya Rayudu, Cunlu Zhou, Robbie King, Kevin Thompson, Ojas Parekh]
+    arxiv: "2307.15688"
+    badge: "TQC 2024"
+    badge_title: "Accepted for a talk at Theory of Quantum Computing (TQC) 2024"
+
+  - title: "Quantum Bicyclic Hyperbolic Codes"
+    year: 2020
+    authors: [Sankara Sai Chaithanya Rayudu, Pradeep Sarvepalli]
+    journal: "Quantum Information Processing 19, 228 (2020)"
+    journal_label: "Springer"
+    journal_url: "https://link.springer.com/article/10.1007/s11128-020-02727-0"

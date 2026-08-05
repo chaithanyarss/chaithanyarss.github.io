@@ -1,0 +1,43 @@
+{%- assign me = site.data.publications.me -%}
+<ol class="pubs" role="list">
+{%- for pub in site.data.publications.list -%}
+  {%- assign link = pub.url | default: pub.journal_url -%}
+  {%- if link == nil or link == "" -%}
+    {%- if pub.arxiv -%}
+      {%- assign link = pub.arxiv | prepend: "https://arxiv.org/abs/" -%}
+    {%- elsif pub.doi -%}
+      {%- assign link = pub.doi | prepend: "https://doi.org/" -%}
+    {%- endif -%}
+  {%- endif -%}
+  <li class="pubs__item">
+    <span class="pubs__ord" aria-hidden="true">{{ forloop.index }}</span>
+    <span class="pubs__year">{{ pub.year }}</span>
+    <div class="pubs__body">
+      <h3 class="pubs__title">
+        {%- if link -%}<a href="{{ link }}">{{ pub.title }}</a>{%- else -%}{{ pub.title }}{%- endif -%}
+      </h3>
+      <p class="pubs__authors">
+        {%- for a in pub.authors -%}
+          {%- if me contains a -%}<span class="pubs__me">{{ a }}</span>{%- else -%}{{ a }}{%- endif -%}
+          {%- unless forloop.last %}, {% endunless -%}
+        {%- endfor -%}
+      </p>
+      {%- if pub.journal %}<p class="pubs__journal">{{ pub.journal }}</p>{% endif -%}
+      {%- if pub.note %}<p class="pubs__note">{{ pub.note }}</p>{% endif -%}
+      <ul class="pubs__links">
+        {%- if pub.badge -%}
+        <li><span class="pubs__pill pubs__pill--badge"{% if pub.badge_title %} title="{{ pub.badge_title | escape }}"{% endif %}>{{ pub.badge }}</span></li>
+        {%- endif -%}
+        {%- if pub.arxiv -%}
+        <li><a class="pubs__pill" href="https://arxiv.org/abs/{{ pub.arxiv }}"><i class="ai ai-arxiv" aria-hidden="true"></i><span>arXiv:{{ pub.arxiv }}</span></a></li>
+        {%- endif -%}
+        {%- if pub.journal_url -%}
+        <li><a class="pubs__pill" href="{{ pub.journal_url }}"><i class="ai ai-doi" aria-hidden="true"></i><span>{{ pub.journal_label | default: "Journal" }}</span></a></li>
+        {%- elsif pub.doi -%}
+        <li><a class="pubs__pill" href="https://doi.org/{{ pub.doi }}"><i class="ai ai-doi" aria-hidden="true"></i><span>DOI</span></a></li>
+        {%- endif -%}
+      </ul>
+    </div>
+  </li>
+{%- endfor -%}
+</ol>
