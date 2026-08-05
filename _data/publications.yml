@@ -20,16 +20,14 @@ list:
     authors: [Chaithanya Rayudu]
     arxiv: "2411.03230"
     badge: "QIP 2025"
-    badge_title: "Accepted for a talk at Quantum Information Processing (QIP) 2025"
-    note: "Accepted for a talk as part of a combined submission."
+    badge_title: "Accepted for a talk at Quantum Information Processing (QIP) 2025, as part of a combined submission"
 
   - title: "Constrained local Hamiltonians: quantum generalizations of Vertex Cover"
     year: 2024
     authors: [Ojas Parekh, Chaithanya Rayudu, Kevin Thompson]
     arxiv: "2409.04433"
     badge: "QIP 2025"
-    badge_title: "Accepted for a talk at Quantum Information Processing (QIP) 2025"
-    note: "Accepted for a talk as part of a combined submission."
+    badge_title: "Accepted for a talk at Quantum Information Processing (QIP) 2025, as part of a combined submission"
 
   - title: "An SU(2)-symmetric Semidefinite Programming Hierarchy for Quantum Max Cut"
     year: 2023
@@ -41,6 +39,5 @@ list:
   - title: "Quantum Bicyclic Hyperbolic Codes"
     year: 2020
     authors: [Sankara Sai Chaithanya Rayudu, Pradeep Sarvepalli]
-    journal: "Quantum Information Processing 19, 228 (2020)"
-    journal_label: "Springer"
+    journal_label: "Quantum Inf. Process."
     journal_url: "https://link.springer.com/article/10.1007/s11128-020-02727-0"

@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Chaithanya Rayudu"
 title_separator          : "-"
 name                     : &name "Chaithanya Rayudu"
-description              : &description "PhD Student at the University of New Mexico"
+description              : &description "Incoming Postdoctoral Researcher at the University of Cambridge"
 url                      : https://chaithanyarss.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chaithanyarss/chaithanyarss.github.io"
@@ -29,7 +29,7 @@ author:
   location         : 
   employer         : 
   uri              : # URL
-  email            : "chaithanyarss@unm.edu" 
+  email            :
 
   # Academic websites
   arxiv            : "https://arxiv.org/a/0000-0003-2756-5637.html"

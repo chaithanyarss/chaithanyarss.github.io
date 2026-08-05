@@ -1,0 +1,8 @@
+<ul class="news" role="list">
+{%- for item in site.data.news -%}
+  <li class="news__item">
+    <span class="news__date">{{ item.date }}</span>
+    <div class="news__body">{{ item.text | markdownify }}</div>
+  </li>
+{%- endfor -%}
+</ul>
