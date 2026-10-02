@@ -5,6 +5,16 @@ me:
 # arXiv ids must stay quoted; unquoted 2411.03230 parses as a float and
 # silently loses its trailing zero, producing a dead link.
 list:
+  - title: "Polynomial-time classical and quantum simulation of quantum impurity models"
+    year: 2026
+    authors: [Jiaqing Jiang, Nathan Ju, Ojas Parekh, Chaithanya Rayudu, Andrew Zhao]
+    arxiv: "2610.02167"
+
+  - title: "Lee-Yang theorem for fermions"
+    year: 2026
+    authors: [Chaithanya Rayudu, Takahiro Misawa, Andrew Zhao, Jun Takahashi]
+    arxiv: "2609.23942"
+
   - title: "Spectral gap of Lee-Yang Hamiltonians"
     year: 2026
     authors: [Chaithanya Rayudu, Jun Takahashi]

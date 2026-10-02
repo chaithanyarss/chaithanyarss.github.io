@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I completed my PhD in 2026 in the Physics department at the University of New Mexico, where I was part of the Center for Quantum Information & Control (CQuIC). I was advised by Ojas Parekh from Sandia National Laboratories. My broad research interests are in the field of quantum computing and quantum information science.
+I am a postdoctoral research associate in the Department of Applied Mathematics and Theoretical Physics (DAMTP) at the University of Cambridge. My broad research interests are in the field of quantum computing and quantum information science.
 
-I received my undergraduate and master’s education in Electrical Engineering, with a minor in Physics, at the Indian Institute of Technology (IIT) Madras. Before starting my PhD, I worked as a software engineer at Texas Instruments in Bangalore, India.
+I completed my PhD in physics in 2026 at the University of New Mexico where I was advised by Ojas Parekh from Sandia National Laboratories. I received my undergraduate and master’s education in Electrical Engineering, with a minor in Physics, at the Indian Institute of Technology (IIT) Madras.
 
 ## News
 

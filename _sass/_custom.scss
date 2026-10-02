@@ -163,16 +163,16 @@ body {
   }
 }
 
-.page__content .news__body a,
-.page__content .news__body a:hover,
-.page__content .news__body a:focus,
-.page__content .news__body a:visited {
+.page__content :is(p, li) a:not([class~="btn"]),
+.page__content :is(p, li) a:not([class~="btn"]):hover,
+.page__content :is(p, li) a:not([class~="btn"]):focus,
+.page__content :is(p, li) a:not([class~="btn"]):visited {
   color: var(--link-blue);
   text-decoration: none;
 }
 
-.page__content .news__body a:hover,
-.page__content .news__body a:focus-visible {
+.page__content :is(p, li) a:not([class~="btn"]):hover,
+.page__content :is(p, li) a:not([class~="btn"]):focus-visible {
   text-decoration: underline;
 }
 
@@ -305,13 +305,13 @@ body {
 }
 
 .page__content .pubs a:focus-visible,
-.page__content .news__body a:focus-visible {
+.page__content :is(p, li) a:not([class~="btn"]):focus-visible {
   outline: 2px solid var(--link-blue);
   outline-offset: 3px;
   border-radius: $border-radius;
 }
 
 .page__content .pubs a:focus:not(:focus-visible),
-.page__content .news__body a:focus:not(:focus-visible) {
+.page__content :is(p, li) a:not([class~="btn"]):focus:not(:focus-visible) {
   outline: 0;
 }
